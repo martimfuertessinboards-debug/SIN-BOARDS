@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://martimfuertessinboards-debug.github.io/SIN-BOARDS/sitemap.xml
